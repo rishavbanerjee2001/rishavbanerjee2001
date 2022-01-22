@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rishavbanerjee2001
 - 👀 I’m interested in Web Development,Devops and Blockchain.
 - 🌱 I’m currently learning Dsa with C++.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email - rishav.banerjee01@gmail.com / Twitter - @RisB_2001
 
 <!---
