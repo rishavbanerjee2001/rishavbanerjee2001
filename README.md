@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishavbanerjee2001
-- 👀 I’m interested in Software, Web, Game Development and Blockchain.
+- 👀 I’m interested in Web, App, Game Development and Blockchain.
 - 🌱 I’m currently mastering Dsa with C++.
 - 📫 How to reach me Email - rishav.banerjee01@gmail.com / Twitter - @RisB_01
 
