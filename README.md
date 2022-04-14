@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishavbanerjee2001
-- 👀 I’m interested in Web Development,Devops and Blockchain.
-- 🌱 I’m currently learning Dsa with C++.
-- 📫 How to reach me Email - rishav.banerjee01@gmail.com / Twitter - @RisB_2001
+- 👀 I’m interested in Software, Web, Game Development and Blockchain.
+- 🌱 I’m currently mastering Dsa with C++.
+- 📫 How to reach me Email - rishav.banerjee01@gmail.com / Twitter - @RisB_01
 
 <!---
 rishavbanerjee2001/rishavbanerjee2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
